@@ -1,7 +1,5 @@
 # Hybrid-BFS-DFS-Graph-Traversal
 
-Welcome to Hybrid-BFS-DFS Traversal! In this project, we delve into the fascinating world of graph traversal, employing both Breadth-First Search (BFS) and Depth-First Search (DFS) algorithms. Traversal of graphs is a fundamental concept in computer science, often used in various applications such as network routing, web crawling, and solving puzzles.
-
 In this project, each student will be provided access to a graph comprising vertices and edges. The objective is to navigate through this graph, covering a significant portion of its nodes using BFS and DFS approaches. However, there's a twist! Rather than sticking to just one traversal method, students will combine the efficiency of BFS with the depth-first exploration of DFS.
 
 The project is structured as follows:
